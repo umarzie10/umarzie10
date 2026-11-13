@@ -116,12 +116,12 @@
 
 ### 📊 GitHub Stats & Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarzie10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarzie10&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umarzie10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722&count_private=true" alt="Umar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarzie10&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarzie10&theme=tokyonight&hide_border=true&background=131722" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarzie10&theme=tokyonight&hide_border=true&background=131722" alt="GitHub Streak" />
 </div>
 
 ---

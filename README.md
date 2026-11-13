@@ -154,40 +154,40 @@ Open to startup collaborations, tech opportunities, and university applications 
 </tr>
 <tr>
 <td>**UstaZone**</td>
-<td>B2B2C marketplace connecting clients with skilled local service providers, featuring escrow logic and wallet splits</td>
+<td>B2B2C marketplace connecting clients with skilled local service providers, featuring escrow logic and wallet splits[cite: 1]</td>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </td>
-<td><a href="https://www.ustazone.uz">ustazone.uz</a></td>
+<td><a href="https://www.ustazone.uz">ustazone.uz</a>[cite: 1]</td>
 </tr>
 <tr>
 <td>**BarberTop**</td>
-<td>SaaS booking platform and mobile marketplace tailored for barbershops in Tashkent with a dark blue & white UI</td>
+<td>SaaS booking platform and mobile marketplace tailored for barbershops in Tashkent with a dark blue & white UI[cite: 1]</td>
 <td>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </td>
-<td><a href="https://barbertop.uz">barbertop.uz</a></td>
+<td><a href="https://barbertop.uz">barbertop.uz</a>[cite: 1]</td>
 </tr>
 <tr>
 <td>**RentBox**</td>
-<td>Equipment rental marketplace platform concept designed for rapid regional scaling across Uzbekistan</td>
+<td>Equipment rental marketplace platform concept designed for rapid regional scaling across Uzbekistan[cite: 1]</td>
 <td>
 <img src="https://img.shields.io/badge/FullStack-FF5722?style=flat-square" alt="FullStack"/>
 <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" alt="AI"/>
 </td>
-<td>Concept</td>
+<td>Concept[cite: 1]</td>
 </tr>
 <tr>
 <td>**RoyalFlow**</td>
-<td>Hotel room cleaning management app integrated with Google Sheets and Telegram Webhooks for staff assignments</td>
+<td>Hotel room cleaning management app integrated with Google Sheets and Telegram Webhooks for staff assignments[cite: 1]</td>
 <td>
 <img src="https://img.shields.io/badge/AppSheet-34A853?style=flat-square" alt="AppSheet"/>
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
 </td>
-<td>Automation</td>
+<td>Automation[cite: 1]</td>
 </tr>
 </table>
 
@@ -197,19 +197,25 @@ Open to startup collaborations, tech opportunities, and university applications 
 
 The snake eats its way through my contributions, updating itself every 12 hours.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake.svg">
+<div align="center">
   <img src="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation over my GitHub contributions" width="100%"/>
-</picture>
+</div>
 
 ---
 
 ## Get in touch
 
 <div align="center">
+  <a href="https://t.me/umar_1020">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,12,20,30,40&height=100§ion=header&text=GOT%20A%20PROJECT%20IN%20MIND%3F%20%20%20%F0%9F%9F%A2%20t.me/umar_1020&fontSize=24&fontColor=ffffff" width="100%" alt="Get in touch banner"/>
+  </a>
+</div>
 
-<a href="mailto:umareshqurbonov52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://t.me/umar_1020"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<br/>
+
+<div align="center">
+
+<a href="mailto:umareshqurbonov52@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/umar_1020"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 </div>

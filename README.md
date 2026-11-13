@@ -10,81 +10,38 @@
 * 🌱 I'm currently working as a **Founder & CEO / Full-Stack Developer**.
 * 💡 Passionate about building robust backend architectures, sleek user interfaces, and smart AI integrations.
 * 🎯 Targeting top-tier tech opportunities and university applications in the United States.
-* ⚡ Fun fact: Deeply engaged in building production-ready marketplaces and automated business solutions in Uzbekistan.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 <p align="center">
-  <!-- Languages & Backend -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  <!-- Database & Tools -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  
-  <!-- AI & Workflow -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Featured Startup Projects & Platforms
+### 💼 Featured Startups & Platforms
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 <a href="https://www.ustazone.uz">UstaZone</a></h3>
-      <p><b>Full-Stack B2B2C Marketplace</b></p>
-      <p>A platform connecting clients with skilled local service providers in Uzbekistan, featuring automated escrow logic, wallet systems, and commission splits.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💈 <a href="https://barbertop.uz">BarberTop</a></h3>
-      <p><b>SaaS Booking & Marketplace Platform</b></p>
-      <p>A modern mobile web platform tailored for barbershops in Tashkent with a sleek dark blue & white UI design and seamless appointment booking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 RentBox</h3>
-      <p><b>Equipment Rental Marketplace</b></p>
-      <p>An innovative equipment rental marketplace platform concept designed for rapid regional scaling, starting from Tashkent to Central Asia.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FullStack-FF5722?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 RoyalFlow & Other Tools</h3>
-      <p><b>Automation & Workflow Systems</b></p>
-      <p>Custom AppSheet hotel management systems integrated with Google Sheets and Telegram Webhooks for tracking operations and staff assignments.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🚀 **[UstaZone](https://www.ustazone.uz)**[cite: 1] | 💈 **[BarberTop](https://barbertop.uz)**[cite: 1] |
+| :---: | :---: |
+| *B2B2C Marketplace & Escrow System* | *SaaS Booking Platform for Barbershops* |
+| Connecting clients with verified craftsmen across Uzbekistan with automated wallet splits. | Sleek dark-blue mobile web platform tailored for Tashkent barbershops[cite: 1]. |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> |
+| **📦 RentBox** | **🤖 RoyalFlow & Systems** |
+| *Equipment Rental Marketplace* | *Hotel Management & Workflow Automation* |
+| VC-backed concept for equipment sharing, expanding from Tashkent to Central Asia[cite: 1]. | AppSheet automation integrated with Google Sheets and Telegram Webhooks[cite: 1]. |
+| <img src="https://img.shields.io/badge/FullStack-FF5722?style=flat"> <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat&logo=openai&logoColor=white"> | <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat&logo=telegram&logoColor=white"> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white"> |
+
+</div>
 
 ---
 

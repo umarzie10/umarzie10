@@ -31,9 +31,50 @@
 
 <div align="center">
 
-| <div style="width: 450px; padding: 20px; background: #161b22; border-radius: 12px; border: 1px solid #30363d; text-align: left;"><h3>🚀 <a href="https://www.ustazone.uz" target="_blank">UstaZone</a></h3><p><b>B2B2C Marketplace & Escrow System</b></p><p>Connecting clients with verified craftsmen across Uzbekistan with automated wallet splits and secure workflows.</p><p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></p></div> | <div style="width: 450px; padding: 20px; background: #161b22; border-radius: 12px; border: 1px solid #30363d; text-align: left;"><h3>💈 <a href="https://barbertop.uz" target="_blank">BarberTop</a></h3><p><b>SaaS Booking & Marketplace Platform</b></p><p>Sleek dark-blue mobile web platform tailored for Tashkent barbershops with seamless appointment booking.</p><p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></p></div> |
-| :---: | :---: |
-| <div style="width: 450px; padding: 20px; background: #161b22; border-radius: 12px; border: 1px solid #30363d; text-align: left;"><h3>📦 RentBox</h3><p><b>Equipment Rental Marketplace</b></p><p>VC-backed concept for equipment sharing, designed for rapid regional scaling from Tashkent to Central Asia.</p><p><img src="https://img.shields.io/badge/FullStack-FF5722?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" /></p></div> | <div style="width: 450px; padding: 20px; background: #161b22; border-radius: 12px; border: 1px solid #30363d; text-align: left;"><h3>🤖 RoyalFlow & Systems</h3><p><b>Hotel Management & Automation</b></p><p>AppSheet automation integrated with Google Sheets and Telegram Webhooks for real-time operations tracking.</p><p><img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" /></p></div> |
+<table style="border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td width="45%" style="background: #161b22; padding: 22px; border-radius: 16px; border: 1px solid #30363d; vertical-align: top;">
+      <h3 style="margin-top: 0;">🚀 <a href="https://www.ustazone.uz" target="_blank">UstaZone</a></h3>
+      <p><b>B2B2C Marketplace & Escrow System</b></p>
+      <p style="color: #8b949e; font-size: 14px;">Connecting clients with verified craftsmen across Uzbekistan with automated wallet splits and secure workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="45%" style="background: #161b22; padding: 22px; border-radius: 16px; border: 1px solid #30363d; vertical-align: top;">
+      <h3 style="margin-top: 0;">💈 <a href="https://barbertop.uz" target="_blank">BarberTop</a></h3>
+      <p><b>SaaS Booking & Marketplace Platform</b></p>
+      <p style="color: #8b949e; font-size: 14px;">Sleek dark-blue mobile web platform tailored for Tashkent barbershops with seamless appointment booking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%" style="background: #161b22; padding: 22px; border-radius: 16px; border: 1px solid #30363d; vertical-align: top;">
+      <h3 style="margin-top: 0;">📦 RentBox</h3>
+      <p><b>Equipment Rental Marketplace</b></p>
+      <p style="color: #8b949e; font-size: 14px;">VC-backed concept for equipment sharing, designed for rapid regional scaling from Tashkent to Central Asia.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FullStack-FF5722?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="45%" style="background: #161b22; padding: 22px; border-radius: 16px; border: 1px solid #30363d; vertical-align: top;">
+      <h3 style="margin-top: 0;">🤖 RoyalFlow & Systems</h3>
+      <p><b>Hotel Management & Automation</b></p>
+      <p style="color: #8b949e; font-size: 14px;">AppSheet automation integrated with Google Sheets and Telegram Webhooks for real-time operations tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 

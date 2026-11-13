@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=220§ion=header&text=UMAR%20ESHQURBONOV&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Umar Eshqurbonov · Banner"/>
 </div>
 
@@ -223,18 +223,4 @@ The snake eats its way through my contributions, updating itself every 12 hours.
 <br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,25,40,60&height=100§ion=footer" width="100%" alt="Footer"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="mailto:umareshqurbonov52@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://t.me/umar_1020"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=100§ion=footer" width="100%" alt="Footer"/>
 </div>

@@ -39,10 +39,52 @@
 
 ---
 
-### 💼 Featured Startup Projects
-* **[UstaZone](https://www.ustazone.uz):** A full-stack B2B2C marketplace connecting clients with skilled local service providers, featuring automated escrow logic, wallet systems, and 90/10 commission splits.
-* **[BarberTop](https://barbertop.uz):** A modern SaaS booking platform and mobile marketplace tailored for barbershops in Tashkent with dark blue & white UI design.
-* **RentBox:** An equipment rental marketplace platform concept designed for rapid regional scaling.
+### 💼 Featured Startup Projects & Platforms
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://www.ustazone.uz">UstaZone</a></h3>
+      <p><b>Full-Stack B2B2C Marketplace</b></p>
+      <p>A platform connecting clients with skilled local service providers in Uzbekistan, featuring automated escrow logic, wallet systems, and commission splits.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💈 <a href="https://barbertop.uz">BarberTop</a></h3>
+      <p><b>SaaS Booking & Marketplace Platform</b></p>
+      <p>A modern mobile web platform tailored for barbershops in Tashkent with a sleek dark blue & white UI design and seamless appointment booking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 RentBox</h3>
+      <p><b>Equipment Rental Marketplace</b></p>
+      <p>An innovative equipment rental marketplace platform concept designed for rapid regional scaling, starting from Tashkent to Central Asia.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FullStack-FF5722?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 RoyalFlow & Other Tools</h3>
+      <p><b>Automation & Workflow Systems</b></p>
+      <p>Custom AppSheet hotel management systems integrated with Google Sheets and Telegram Webhooks for tracking operations and staff assignments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

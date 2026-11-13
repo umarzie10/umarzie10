@@ -13,7 +13,7 @@ I build web and mobile products end to end: interface, API, database, and deploy
 <a href="mailto:umareshqurbonov52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://t.me/umar_1020"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://github.com/umarzie10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Open%20to%20work-22C55E?style=for-the-badge" alt="Open to freelance and full-time work"/>
+<img src="https://img.shields.io/badge/Open%20to%20work-22C55E?style=for-the-badge" alt="Open to work"/>
 
 </div>
 
@@ -218,4 +218,9 @@ The snake eats its way through my contributions, updating itself every 12 hours.
 <a href="mailto:umareshqurbonov52@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://t.me/umar_1020"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=100§ion=footer" width="100%" alt="Footer"/>
 </div>

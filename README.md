@@ -197,9 +197,11 @@ Open to startup collaborations, tech opportunities, and university applications 
 
 The snake eats its way through my contributions, updating itself every 12 hours.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake.svg" alt="Snake animation over my GitHub contributions" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation over my GitHub contributions" width="100%"/>
+</picture>
 
 ---
 

@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=220§ion=header&text=UMAR%20ESHQURBONOV&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2CA5E0¢er=true&vCenter=true&width=500&lines=Full-Stack+Developer+%26+Startup+Founder;Building+Scalable+Web+Applications;Integrating+AI+into+Real-World+Products" alt="Typing SVG" /></a>
-</div>
+<h3 align="center">Full-Stack Developer & AI Integration Enthusiast</h3>
 
 ---
 
@@ -65,7 +63,7 @@
   <a href="mailto:umareshqurbonov52@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/umar_1020"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/umarzie10"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/OPEN%20TO%2520WORK-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ea44f?style=for-the-badge" />
 </p>
 
 <div align="center">

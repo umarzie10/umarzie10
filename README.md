@@ -31,7 +31,6 @@
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
@@ -46,11 +45,10 @@
       </p>
     </td>
     <td width="50%" valign="top" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
-      <h3>Tools & Design</h3>
+      <h3>Tools & AI</h3>
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
         <img src="https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
@@ -102,32 +100,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### Activity
-<p>The snake eats its way through my contributions, updating itself every 12 hours.</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
----
-
-### 📊 GitHub Stats & Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarzie10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarzie10&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 GitHub Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarzie10&theme=tokyonight&hide_border=true&background=131722" alt="GitHub Streak" />
-</div>
 
 ---
 

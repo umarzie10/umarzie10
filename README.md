@@ -109,9 +109,8 @@
 <p>The snake eats its way through my contributions, updating itself every 12 hours.</p>
 
 <div align="center">
-  <img src="https://github.com/umarzie10/umarzie10/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/umarzie10/umarzie10/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
-
 ---
 
 ### 📊 GitHub Stats & Metrics

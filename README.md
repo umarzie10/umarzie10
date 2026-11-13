@@ -207,7 +207,7 @@ The snake eats its way through my contributions, updating itself every 12 hours.
 
 <div align="center">
   <a href="https://t.me/umar_1020">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,12,20,30,40&height=100§ion=header&text=GOT%20A%20PROJECT%20IN%20MIND%3F%20%20%20%F0%9F%9F%A2%20t.me/umar_1020&fontSize=24&fontColor=ffffff" width="100%" alt="Get in touch banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,15,30,45,60&height=120§ion=header&text=GOT%20A%20PROJECT%20IN%20MIND%3F%20%20%20%F0%9F%9F%A2%20t.me/umar_1020&fontSize=22&fontColor=ffffff" width="100%" alt="Get in touch banner"/>
   </a>
 </div>
 

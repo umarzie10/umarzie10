@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:umarzie10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/umarzie10"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:umareshqurbonov52@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/umar_1020"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/umarzie10"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2ea44f?style=for-the-badge" />
 </p>
@@ -40,4 +40,6 @@
 ---
 
 <div align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=umarzie10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131722" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarzie10&layout=compact&theme=tokyonight&hide_border=true&bg_color=131722" />
+</div>

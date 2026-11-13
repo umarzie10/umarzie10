@@ -1,16 +1,15 @@
-## Hi there 👋
+# Umar Eshqurbonov
+### Full-Stack Developer | AI Enthusiast | Startup Builder
 
-<!--
-**umarzie10/umarzie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-Stack Developer focused on building scalable applications, intelligent digital products, and real-world software solutions.
 
-Here are some ideas to get you started:
+**What I Do:**
+- Full-Stack Development — Building modern web applications and complete software solutions.
+- Backend Engineering — Java, Spring Boot, REST APIs, PostgreSQL.
+- Frontend Development — React, TypeScript, JavaScript, Tailwind CSS.
+- AI & Automation — Understanding AI technologies, integrating AI APIs, and building AI-powered solutions.
+- Product Development — Turning ideas into functional products and startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Focus:** Software Engineering, Artificial Intelligence, System Design, Entrepreneurship, and building technology that solves real-world problems.
+
+**My Philosophy:** Build products, solve problems, create impact.

@@ -1,11 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=38BDF8¢er=true&vCenter=true&width=700&height=80&lines=UMAR+ESHQURBONOV;Full-Stack+%26+AI+Developer;Welcome+To+My+Profile!%F0%9F%91%8B" alt="Typing SVG" />
-</div>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Full_Stack-Developer-0284c7?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/🐍_Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚛️_React_%26_Node-Ready-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B192C,100:1E3E62&height=220§ion=header&text=UMAR%20ESHQURBONOV&fontSize=40&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20%26%20AI%20Developer&descSize=18&descAlignY=75" alt="Umar Eshqurbonov Banner" />
 </p>
 
 <div align="center">

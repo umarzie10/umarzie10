@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00416a,100:e46565&height=220§ion=header&text=UMAR%20ESHQURBONOV&fontSize=42&fontColor=ffffff&fontAlignY=58&desc=Full-Stack%20%26%20AI%20Developer&descSize=20&descAlignY=78" alt="Umar Eshqurbonov Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00416a,100:e46565&height=220&section=header&text=UMAR%20ESHQURBONOV&fontSize=42&fontColor=ffffff&fontAlignY=58&desc=Full-Stack%20%26%20AI%20Developer&descSize=20&descAlignY=78" alt="Umar Eshqurbonov Banner" />
 </p>
 
 <div align="center">

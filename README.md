@@ -1,6 +1,6 @@
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=220§ion=header&text=UMAR%20ESHQURBONOV&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Umar Eshqurbonov · Banner"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00416a,100:e46565&height=220§ion=header&text=UMAR%20ESHQURBONOV&fontSize=42&fontColor=ffffff&fontAlignY=58&desc=Full-Stack%20%26%20AI%20Developer&descSize=20&descAlignY=78" alt="Umar Eshqurbonov Banner" />
+</p>
 
 <div align="center">
 
